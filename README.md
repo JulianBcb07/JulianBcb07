@@ -7,7 +7,7 @@ Apasionado por la tecnología, el aprendizaje continuo y la resolución de probl
 
 <hr/>
 
-## Sobre mi
+## Sobre mi 🙋🏽💻
 
 - Me gusta trabajar de manera colaborativa en equipos.
 - He desarrollado habilidades para adaptarme a nuevos desafíos y aprender de manera rápida.
