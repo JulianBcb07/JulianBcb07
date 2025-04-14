@@ -2,20 +2,20 @@
 
 ### Ingenierio en Sistemas Computacionales | Desarrollo de software
 
-Desarrollador de software apasionado por la tecnología, la resolución de problemas y el aprendizaje continuo que me permite desarrollar y mejorar mis habilidades.
+Apasionado por la tecnología, la resolución de problemas y el aprendizaje continuo que me permite desarrollar y mejorar mis habilidades día a día.
 
----
----
----
----
-
+<hr/>
 
 ## Sobre mi
 
 - Me gusta trabajar de manera colaborativa en equipos.
 - He desarrollado habilidades para adaptarme a nuevos desafíos y aprender de manera rápida.
 - Tengo un fuerte interés en la innovación, gestión de proyectos y desarrollado full stack.
-## 🛠️ Tecnologías y herramientas
+
+<hr/>
+
+## 💡 Tecnologías y herramientas
+
 
 ### 💻 Dominio Profesional  
 *(Tecnologías que manejo con confianza)*  
