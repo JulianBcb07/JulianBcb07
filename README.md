@@ -2,7 +2,8 @@
 
 ### Ingenierio en Sistemas Computacionales | Desarrollo de software
 
-Apasionado por la tecnología, la resolución de problemas y el aprendizaje continuo que me permite desarrollar y mejorar mis habilidades día a día.
+Apasionado por la tecnología, el aprendizaje continuo y la resolución de problemas para fortalecer mi lógica y habilidades técnicas, que me permitan desarrollar y crear soluciones eficientes y escalables. Actualmente enfocado en el dominio de desarrollo web full stack. 
+
 
 <hr/>
 
