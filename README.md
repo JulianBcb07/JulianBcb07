@@ -1,6 +1,6 @@
 # ¡Hola, soy Julian Bacab! 👋
 
-### Ingenierio en Sistemas Computacionales | Desarrollo de software
+### Ingeniero en Sistemas Computacionales | Desarrollo de software
 
 Apasionado por la tecnología, el aprendizaje continuo y la resolución de problemas. Me enfoco en fortalecer mis habilidades técnicas para desarrollar soluciones eficientes y escalables. Actualmente, profundizando en desarrollo web full stack para dominar todos los aspectos de la construcción de aplicaciones modernas.
 
