@@ -47,9 +47,11 @@ Apasionado por la tecnología, el aprendizaje continuo y la resolución de probl
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cypress" height="40" alt="cypress logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="sql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="sql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
